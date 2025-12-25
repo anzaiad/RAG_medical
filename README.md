@@ -70,11 +70,3 @@ pip install -r requirements.txt
 
 通过 **RAG + SFT** 的双轨驱动，系统在保持学术严谨性的同时，显著提升了医学术语的表达精度，有效缓解了大模型的“幻觉”现象。
 
-### 推送指南（针对当前进度）
-
-既然您已经完成了 `git commit`，请执行以下指令完成推送：
-
-```bash
-git remote add origin https://github.com/anzaiad/RAG_medical.git
-git branch -M main
-git push -u origin main
