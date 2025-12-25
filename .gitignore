@@ -1,0 +1,9 @@
+# 忽略大型权重文件夹
+models/
+LLaMA-Factory/saves/
+chroma_medical_db_final/
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
